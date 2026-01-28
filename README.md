@@ -1,16 +1,24 @@
-## Hi there 👋
+# Joe Murillo (joemurillo-ai)
+Security-first builder. Shipping labs + tooling weekly.
 
-<!--
-**joemurillo-ai/joemurillo-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity • Cloud (Azure) • Applied AI • Security Automation  
+Building practical, defensible systems: visibility → detection → response.
 
-Here are some ideas to get you started:
+## Flagship Projects
+- **PCAP Triage Pipeline** — capture → DNS/SNI/protocol analytics → Markdown incident report
+- **Home Lab Zero-Trust Baseline** — segmentation, logging, hardened defaults (in progress)
+- **Azure Security Labs** — identity, monitoring, detections (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## What I’m focused on now
+- Network traffic analysis (Wireshark/tshark)
+- Linux + WSL workflows
+- Python tooling for security automation
+- Microsoft/Azure security foundations
+
+## Toolkit
+Python • Wireshark/tshark • Linux/WSL • Git/GitHub • Azure
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/joemurillo/
+
