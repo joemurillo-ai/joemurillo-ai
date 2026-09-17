@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/joe-command-neofetch.jpg" width="100%" alt="Joe Murillo — terminal neofetch identity"/>
+  <img src="./assets/joe-command-neofetch.svg" width="100%" alt="Joe Murillo — terminal neofetch identity"/>
 </p>
 
 <p align="center">
