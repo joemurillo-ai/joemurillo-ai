@@ -1,6 +1,10 @@
 name: Contribution Signal
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/contribution-signal.yml"
   schedule:
     - cron: "29 3 * * *"
   workflow_dispatch:
