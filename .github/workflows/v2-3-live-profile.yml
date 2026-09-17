@@ -1,4 +1,4 @@
-name: V3 Mission Control Sync
+name: V4 Portfolio OS Sync
 
 on:
   workflow_dispatch:
@@ -17,7 +17,7 @@ permissions:
   issues: read
 
 concurrency:
-  group: profile-v3-mission-control
+  group: profile-v4-portfolio-os
   cancel-in-progress: true
 
 jobs:
@@ -32,19 +32,19 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate V3 mission control surface
+      - name: Generate V4 portfolio operating system
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_profile.py
 
       - name: Commit only when public state changed
         run: |
-          if git diff --quiet -- README.md assets/live-command.svg; then
-            echo "No mission-control telemetry changes."
+          if git diff --quiet -- README.md assets/live-command.svg assets/portfolio-graph.svg; then
+            echo "No V4 portfolio state changes."
             exit 0
           fi
           git config user.name "joe-command-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add README.md assets/live-command.svg
-          git commit -m "chore(profile): sync v3 mission control"
+          git add README.md assets/live-command.svg assets/portfolio-graph.svg
+          git commit -m "chore(profile): sync v4 portfolio os"
           git push
