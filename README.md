@@ -83,7 +83,7 @@ Operational signal only — **not a security rating**. It combines public commit
 | XORIS | DORMANT | — | CLEAR | STANDBY |
 | PCAP TRIAGE | DORMANT | — | CLEAR | STANDBY |
 | SECURITY BRIEFING | DORMANT | — | CLEAR | STANDBY |
-| HUMAN.EXE | DORMANT | FAILURE | CLEAR | ATTENTION |
+| HUMAN.EXE | ATTENTION | FAILURE | CLEAR | ATTENTION |
 <!-- V4:TRUST:END -->
 
 ---
@@ -107,12 +107,13 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V4:TELEMETRY:START -->
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| [ARIS](https://github.com/joemurillo-ai/aris) | `main` | `c8144e9` | 1h ago | 32 | 32 | 0 | 0 | SUCCESS | ACTIVE |
+| [ARIS](https://github.com/joemurillo-ai/aris) | `main` | `c8144e9` | 2h ago | 32 | 32 | 0 | 0 | SUCCESS | ACTIVE |
 | [XORIS](https://github.com/joemurillo-ai/xoris-ai) | `master` | `8045ad7` | 100d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | [PCAP TRIAGE](https://github.com/joemurillo-ai/pcap-triage-pipeline) | `main` | `d8b54ee` | 231d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | [SECURITY BRIEFING](https://github.com/joemurillo-ai/azure-ai-security-briefing-agent) | `main` | `c4d9d5a` | 230d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | [HUMAN.EXE](https://github.com/joemurillo-ai/humanexe) | `main` | `5d72fee` | 110d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
 
+`telemetry_sync: 2026-09-17 05:26 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V4:TELEMETRY:END -->
 
@@ -126,6 +127,15 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 | 2026-09-17 03:25 | `aris` | feat: enforce mission agent authorization (#9) | [`c8144e9`](https://github.com/joemurillo-ai/aris/commit/c8144e93a307ca961437aa5d316cdd8a4a1f3a1f) |
 | 2026-09-17 02:59 | `aris` | chore: reconcile governance events roadmap status (#8) | [`5b38a76`](https://github.com/joemurillo-ai/aris/commit/5b38a76241f14c9b7c193b628db8f7d293f68d63) |
 | 2026-09-16 22:01 | `aris` | feat: add durable governance event history (#7) | [`9a66715`](https://github.com/joemurillo-ai/aris/commit/9a667153c9422e9e9d498e79d58b5acc79810436) |
+| 2026-09-16 17:58 | `aris` | chore: reconcile privacy redaction roadmap status (#6) | [`fa8f419`](https://github.com/joemurillo-ai/aris/commit/fa8f4196119492498d4109f0185855d08b81c367) |
+| 2026-09-16 17:04 | `aris` | feat: add bounded diagnostic redaction (#5) | [`62bcf0e`](https://github.com/joemurillo-ai/aris/commit/62bcf0e5661fd0710f540dbaac057a4a5aa652b6) |
+| 2026-09-15 23:03 | `aris` | chore: reconcile lifecycle roadmap status | [`fa18b8f`](https://github.com/joemurillo-ai/aris/commit/fa18b8f57fc988369978105fc3868e200410354f) |
+| 2026-09-15 22:39 | `aris` | feat: enforce mission lifecycle transitions | [`2d68df6`](https://github.com/joemurillo-ai/aris/commit/2d68df602db1dc3cd002d7fdfa120f412bdf9e1f) |
+| 2026-09-13 19:59 | `aris` | feat: add autonomous roadmap queue | [`7703043`](https://github.com/joemurillo-ai/aris/commit/77030438d41cb479358a8576ce1237ede9e08466) |
+| 2026-09-13 19:09 | `aris` | feat: operationalize mission control | [`bf22451`](https://github.com/joemurillo-ai/aris/commit/bf22451b1ecde26489cedc9d3dfdc66ba205d1d4) |
+| 2026-09-13 01:04 | `aris` | test: add mission health policy coverage | [`a35c43c`](https://github.com/joemurillo-ai/aris/commit/a35c43c880760fcfc15596cccc69179bbbc0e1d4) |
+| 2026-09-13 00:36 | `aris` | feat: add lifecycle-aware mission health | [`3e70637`](https://github.com/joemurillo-ai/aris/commit/3e70637ba997a01e7dadfbf124097964eb552fd3) |
+| 2026-09-13 00:09 | `aris` | feat: enhance mission control list view | [`b452980`](https://github.com/joemurillo-ai/aris/commit/b452980f2953c48f101baa08130937e1cacf67f5) |
 <!-- V4:MISSION_LOG:END -->
 
 ---
