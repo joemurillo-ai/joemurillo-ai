@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<defs><linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#00E5FF"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#00FF88"/></linearGradient></defs>
+<rect width="1400" height="760" rx="26" fill="#0B0F14" stroke="#243142"/>
+<text x="70" y="68" fill="#7D8996" font-family="monospace" font-size="21">// 02 SYSTEM ARCHITECTURE</text>
+<text x="700" y="115" text-anchor="middle" fill="#E6EDF3" font-family="Arial" font-size="30" font-weight="800">JOE — HUMAN COMMAND AUTHORITY</text>
+<g stroke="url(#edge)" stroke-width="3" fill="none">
+<path d="M700 138V180"/><path d="M700 282V332"/><path d="M700 485V530"/><path d="M700 650V690"/>
+</g>
+<g>
+<rect x="420" y="180" width="560" height="102" rx="18" fill="#0F1620" stroke="#8B5CF6"/>
+<text x="700" y="220" text-anchor="middle" fill="#E6EDF3" font-family="Arial" font-size="31" font-weight="800">XORIS</text>
+<text x="700" y="253" text-anchor="middle" fill="#7D8996" font-family="monospace" font-size="17">IDENTITY • POLICY • AUTHORIZATION • APPROVAL • TRUST • AUDIT</text>
+
+<rect x="250" y="332" width="900" height="153" rx="18" fill="#0F1620" stroke="#00E5FF"/>
+<text x="700" y="378" text-anchor="middle" fill="#E6EDF3" font-family="Arial" font-size="31" font-weight="800">ARIS — INTELLIGENCE / DECISION PLANE</text>
+<text x="700" y="426" text-anchor="middle" fill="#00E5FF" font-family="monospace" font-size="22">ATLAS  /  PRAXIS  /  SENTINEL</text>
+<text x="700" y="456" text-anchor="middle" fill="#7D8996" font-family="monospace" font-size="16">TRUTH  /  PLANNING  /  ADVERSARIAL CHALLENGE</text>
+
+<rect x="370" y="530" width="660" height="120" rx="18" fill="#0F1620" stroke="#00FF88"/>
+<text x="700" y="575" text-anchor="middle" fill="#E6EDF3" font-family="Arial" font-size="30" font-weight="800">CENTRA — PHYSICAL / EDGE PLANE</text>
+<text x="700" y="612" text-anchor="middle" fill="#7D8996" font-family="monospace" font-size="18">DRONES • SENSORS • COMPUTER VISION • EDGE COMPUTE</text>
+</g>
+<text x="700" y="724" text-anchor="middle" fill="#00FF88" font-family="monospace" font-size="22">PHYSICAL WORLD → RISK GRAPH → VERIFIED OUTCOMES</text>
+</svg>
