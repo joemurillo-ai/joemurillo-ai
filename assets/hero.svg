@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430">
+<defs>
+  <linearGradient id="sig" x1="0" x2="1"><stop offset="0" stop-color="#00E5FF"/><stop offset=".52" stop-color="#8B5CF6"/><stop offset="1" stop-color="#00FF88"/></linearGradient>
+  <radialGradient id="rad"><stop offset="0" stop-color="#00E5FF" stop-opacity=".18"/><stop offset="1" stop-color="#0B0F14" stop-opacity="0"/></radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0V56" fill="none" stroke="#18222E" stroke-width="1"/></pattern>
+</defs>
+<rect width="1400" height="430" rx="28" fill="#0B0F14"/>
+<rect width="1400" height="430" rx="28" fill="url(#grid)" opacity=".8"/>
+<ellipse cx="1060" cy="210" rx="330" ry="280" fill="url(#rad)"/>
+<rect x="1" y="1" width="1398" height="428" rx="27" fill="none" stroke="#243142"/>
+<circle cx="67" cy="62" r="7" fill="#00FF88" filter="url(#glow)"/>
+<text x="90" y="70" fill="#7D8996" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" letter-spacing="2">JOE // COMMAND</text>
+<text x="66" y="174" fill="#E6EDF3" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">JOE MURILLO</text>
+<text x="66" y="223" fill="url(#sig)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="25" font-weight="700">PHYSICAL RISK INTELLIGENCE ARCHITECT</text>
+<text x="66" y="278" fill="#7D8996" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">AGENTIC AI  //  CYBERSECURITY  //  INSURANCE  //  AUTONOMOUS SYSTEMS</text>
+<path d="M67 332H1333" stroke="url(#sig)" stroke-width="2"/>
+<text x="66" y="373" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">&gt; CURRENT_MISSION: BUILDING THE PHYSICAL RISK GRAPH_</text>
+<text x="1050" y="373" fill="#7D8996" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">OBSERVE → DECIDE → VERIFY → LEARN</text>
+</svg>
