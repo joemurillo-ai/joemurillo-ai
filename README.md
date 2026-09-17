@@ -53,8 +53,8 @@ JOE
 ```text
 PORTFOLIO PULSE
 ----------------------------------------------------------------
-commits_7d           32
-commits_30d          32
+commits_7d           38
+commits_30d          38
 active_repos_30d     1/5
 ci_success           1
 attention_signals    1
@@ -101,13 +101,13 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V5:TELEMETRY:START -->
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| ARIS | `main` | `c8144e9` | 13h ago | 32 | 32 | 0 | 0 | SUCCESS | ACTIVE |
+| ARIS | `main` | `64cef72` | 18m ago | 38 | 38 | 0 | 0 | SUCCESS | ACTIVE |
 | XORIS | `master` | `8045ad7` | 100d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | PCAP TRIAGE | `main` | `d8b54ee` | 231d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | SECURITY BRIEFING | `main` | `c4d9d5a` | 230d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | HUMAN.EXE | `main` | `5d72fee` | 111d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-09-17 16:59 UTC`  
+`telemetry_sync: 2026-09-17 21:21 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
@@ -118,18 +118,18 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V5:MISSION_LOG:START -->
 | UTC | System | Mission event | Commit |
 |---|---|---|---|
+| 2026-09-17 21:02 | `aris` | Merge pull request #12 from joemurillo-ai/chore/reconcile-persisted-exe… | `64cef72` |
+| 2026-09-17 21:00 | `aris` | chore: reconcile persisted execution roadmap | `181cff9` |
+| 2026-09-17 20:41 | `aris` | Merge pull request #11 from joemurillo-ai/agent/persisted-execution | `b6a884f` |
+| 2026-09-17 20:37 | `aris` | feat: execute persisted missions | `cc83931` |
+| 2026-09-17 20:06 | `aris` | Merge pull request #10 from joemurillo-ai/chore/reconcile-agent-authori… | `48491a5` |
+| 2026-09-17 20:04 | `aris` | chore: reconcile agent authorization roadmap | `6398090` |
 | 2026-09-17 03:25 | `aris` | feat: enforce mission agent authorization (#9) | `c8144e9` |
 | 2026-09-17 02:59 | `aris` | chore: reconcile governance events roadmap status (#8) | `5b38a76` |
 | 2026-09-16 22:01 | `aris` | feat: add durable governance event history (#7) | `9a66715` |
 | 2026-09-16 17:58 | `aris` | chore: reconcile privacy redaction roadmap status (#6) | `fa8f419` |
 | 2026-09-16 17:04 | `aris` | feat: add bounded diagnostic redaction (#5) | `62bcf0e` |
 | 2026-09-15 23:03 | `aris` | chore: reconcile lifecycle roadmap status | `fa18b8f` |
-| 2026-09-15 22:39 | `aris` | feat: enforce mission lifecycle transitions | `2d68df6` |
-| 2026-09-13 19:59 | `aris` | feat: add autonomous roadmap queue | `7703043` |
-| 2026-09-13 19:09 | `aris` | feat: operationalize mission control | `bf22451` |
-| 2026-09-13 01:04 | `aris` | test: add mission health policy coverage | `a35c43c` |
-| 2026-09-13 00:36 | `aris` | feat: add lifecycle-aware mission health | `3e70637` |
-| 2026-09-13 00:09 | `aris` | feat: enhance mission control list view | `b452980` |
 <!-- V5:MISSION_LOG:END -->
 
 ---
