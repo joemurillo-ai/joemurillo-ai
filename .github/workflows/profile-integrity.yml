@@ -1,0 +1,30 @@
+name: Profile Integrity
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify required files
+        run: |
+          test -f README.md
+          test -f assets/hero.svg
+          test -f assets/architecture.svg
+          test -f assets/node-fabric.svg
+          test -f assets/doctrine.svg
+          test -f assets/live-telemetry.svg
+          test -f scripts/generate_telemetry.py
+      - name: Validate SVG XML
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq libxml2-utils
+          xmllint --noout assets/*.svg
