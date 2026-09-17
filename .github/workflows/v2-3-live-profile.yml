@@ -4,6 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 */6 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_profile.py"
+      - ".github/workflows/v2-3-live-profile.yml"
 
 permissions:
   contents: write
