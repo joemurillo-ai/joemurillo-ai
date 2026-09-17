@@ -9,7 +9,6 @@ on:
     paths:
       - "scripts/update_profile.py"
       - ".github/workflows/v2-3-live-profile.yml"
-      - "README.md"
 
 permissions:
   contents: write
