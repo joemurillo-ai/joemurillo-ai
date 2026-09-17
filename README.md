@@ -1,65 +1,72 @@
 <p align="center">
-  <img src="./assets/joe-avatar-v2-1.jpg" width="190" alt="Joe Murillo — Physical Risk Intelligence Architect"/>
+  <img src="./assets/joe-avatar-v2-1.jpg" width="180" alt="Joe Murillo — Physical Risk Intelligence Architect"/>
 </p>
 
 <p align="center">
-  <strong>JOE // COMMAND</strong><br/>
+  <strong>JOE // COMMAND v2.2</strong><br/>
   Physical Risk Intelligence • Agentic AI • Cybersecurity • Insurance • Autonomous Systems
 </p>
 
 ```text
-┌────────────────────────────────────────────────────────────────────┐
-│ joe@command:~$ boot                                                │
-├────────────────────────────────────────────────────────────────────┤
-│ USER        Joe Murillo                                            │
-│ ROLE        Physical Risk Intelligence Architect                   │
-│ MISSION      Build intelligence infrastructure for the physical     │
-│              world — governed, observable, auditable, reversible.   │
-│ STATUS       BUILDING                                              │
-│ PROTOCOL     OBSERVE → DECIDE → VERIFY → LEARN                     │
-└────────────────────────────────────────────────────────────────────┘
+joe@command:~$ neofetch
+
+      ██╗███╗   ███╗        joe@command
+      ██║████╗ ████║        -------------------------------------------
+      ██║██╔████╔██║        role      Physical Risk Intelligence Architect
+ ██   ██║██║╚██╔╝██║        mission   Intelligence infrastructure for
+ ╚█████╔╝██║ ╚═╝ ██║                  the physical world
+  ╚════╝ ╚═╝     ╚═╝        focus     AI / cyber / insurance / autonomy
+                             build     ARIS / XORIS / CENTRA / Risk Graph
+  OBSERVE                    node_01   SENTINEL — Linux / Omarchy
+  DECIDE                     node_02   WINDOWS — enterprise / engineering
+  VERIFY                     doctrine  Human authority > agent authority
+  LEARN                      status    BUILDING
 ```
 
-## `joe@command:~$ neofetch`
+> **Building intelligence infrastructure that allows humans and machines to understand, measure, govern, and reduce physical risk.**
+
+---
+
+## `joe@command:~$ cat architecture.sys`
 
 ```text
-                 ╭──────────────────────────────╮
-             ╭───┤ JOE // INTELLIGENCE SYSTEMS ├───╮
-             │   ╰──────────────────────────────╯   │
-             │                                       │
-             │          ┌───────────────┐            │
-             │          │     XORIS     │            │
-             │          │   CONTROL     │            │
-             │          └──────┬────────┘            │
-             │                 │                     │
-             │        ┌────────▼────────┐             │
-             │        │      ARIS       │             │
-             │        │  INTELLIGENCE   │             │
-             │        └────────┬────────┘             │
-             │                 │                     │
-             │       ┌─────────▼─────────┐            │
-             │       │      CENTRA       │            │
-             │       │  PHYSICAL / EDGE  │            │
-             │       └───────────────────┘            │
-             ╰────────────────────────────────────────╯
-
-joe@command
-----------------------------------------------------------------------
-OS:              Human + Machine Intelligence Stack
-Role:            Physical Risk Intelligence Architect
-Focus:           Agentic AI / Cybersecurity / Insurance / Physical Risk
-Current Build:   ARIS / XORIS / CENTRA / Physical Risk Graph
-Node_01:         SENTINEL — Linux / Omarchy
-Node_02:         WINDOWS — enterprise + engineering plane
-Infra:           Docker / WSL2 / SSH / Tailscale
-Data:            PostgreSQL / Supabase / Dataverse
-Interface:       GitHub / VS Code / Next.js / Power Platform
-Doctrine:        Human authority > agent authority
+                         JOE
+                 HUMAN COMMAND AUTHORITY
+                          │
+                          ▼
+                    ┌───────────┐
+                    │   XORIS   │
+                    │  CONTROL  │
+                    └─────┬─────┘
+                          │
+                          ▼
+                    ┌───────────┐
+                    │   ARIS    │
+                    │  REASON   │
+                    └─────┬─────┘
+                          │
+             ┌────────────┼────────────┐
+             ▼            ▼            ▼
+           ATLAS        PRAXIS      SENTINEL
+        WHAT IS TRUE   WHAT TO DO   CHALLENGE
+                          │
+                          ▼
+                    ┌───────────┐
+                    │  CENTRA   │
+                    │ PHYSICAL  │
+                    └─────┬─────┘
+                          │
+                          ▼
+                 PHYSICAL RISK GRAPH
 ```
 
-## `joe@command:~$ cat mission.txt`
+**XORIS** governs identity, missions, permissions, approvals, trust, audit, quarantine, and enforcement.  
+**ARIS** thinks. **ATLAS** establishes what is true. **PRAXIS** plans what should be done. **SENTINEL** challenges assumptions, confidence, and security.  
+**CENTRA** senses, locates, acts when authorized, and verifies outcomes in the physical world.
 
-Build the intelligence infrastructure that allows humans and machines to **understand, measure, govern, and reduce physical risk**.
+---
+
+## `joe@command:~$ cat mission.txt`
 
 ```text
 OBSERVATION
@@ -79,31 +86,9 @@ PHYSICAL RISK GRAPH
 
 The long-term compounding asset is not a specific model, drone, or application. It is the continuously improving **Physical Risk Graph** created from governed observations, decisions, remediation, verification, and outcomes.
 
-## `joe@command:~$ tree ./systems -L 3`
+---
 
-```text
-systems
-├── XORIS
-│   ├── role ........ governance / control plane
-│   ├── owns ........ identity / missions / policy / approvals
-│   ├── trust ....... audit / quarantine / kill switch
-│   └── status ...... ARCHITECTURE
-│
-├── ARIS
-│   ├── role ........ intelligence / decision plane
-│   ├── ATLAS ....... what is true
-│   ├── PRAXIS ...... what should be done
-│   ├── SENTINEL .... adversarial challenge / confidence / security
-│   └── status ...... ACTIVE
-│
-└── CENTRA
-    ├── role ........ physical / edge plane
-    ├── endpoints ... drones / sensors / computer vision / robotics
-    ├── purpose ..... observe / locate / act / verify
-    └── status ...... PLANNED
-```
-
-## `joe@command:~$ show_nodes`
+## `joe@command:~$ show_nodes --fabric`
 
 ```text
 NODE 01  SENTINEL   Linux / Omarchy          ONLINE
@@ -120,15 +105,28 @@ NODE 07  MOBILE     iPhone / iPad ops        ACTIVE
 NODE 08  LAB        adversarial sandbox      PLANNED
 ```
 
-## `joe@command:~$ ls ./spotlight`
+---
 
-| System | Mission |
+## `joe@command:~$ ls ./systems`
+
+| System | Role | State |
+|---|---|---|
+| [`ARIS`](https://github.com/joemurillo-ai/aris) | Governed intelligence / decision plane | **ACTIVE** |
+| [`XORIS`](https://github.com/joemurillo-ai/xoris-ai) | Governance / control plane | **ARCHITECTURE** |
+| **CENTRA** | Physical / edge plane | **PLANNED** |
+| **Physical Risk Graph** | Compounding risk + outcome data asset | **DESIGN** |
+
+### `./spotlight`
+
+| Repository | Mission |
 |---|---|
-| [`ARIS`](https://github.com/joemurillo-ai/aris) | Governed mission execution, authorization, lifecycle policy, audit, and agent-ready engineering |
-| [`XORIS`](https://github.com/joemurillo-ai/xoris-ai) | Governance and control-plane architecture |
-| [`PCAP Triage Pipeline`](https://github.com/joemurillo-ai/pcap-triage-pipeline) | Network evidence → analysis → incident-ready reporting |
-| [`Azure AI Security Briefing Agent`](https://github.com/joemurillo-ai/azure-ai-security-briefing-agent) | AI-powered security briefing workflows |
-| [`Human.exe`](https://github.com/joemurillo-ai/humanexe) | Human execution and workflow experiments |
+| [`aris`](https://github.com/joemurillo-ai/aris) | Governed mission execution, authorization, lifecycle policy, audit, and agent-ready engineering |
+| [`xoris-ai`](https://github.com/joemurillo-ai/xoris-ai) | Governance and control-plane architecture |
+| [`pcap-triage-pipeline`](https://github.com/joemurillo-ai/pcap-triage-pipeline) | Network evidence → analysis → incident-ready reporting |
+| [`azure-ai-security-briefing-agent`](https://github.com/joemurillo-ai/azure-ai-security-briefing-agent) | AI-powered security briefing workflows |
+| [`humanexe`](https://github.com/joemurillo-ai/humanexe) | Human execution and workflow experiments |
+
+---
 
 ## `joe@command:~$ status --public`
 
@@ -156,6 +154,8 @@ CENTRA
 └── outcome verification ..................... PLANNED
 ```
 
+---
+
 ## `joe@command:~$ cat doctrine.txt`
 
 ```text
@@ -168,6 +168,8 @@ CENTRA
 06  VERIFIED OUTCOME DATA COMPOUNDS.
 ```
 
+---
+
 ## `joe@command:~$ ./contribution_signal`
 
 <picture>
@@ -175,6 +177,8 @@ CENTRA
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joemurillo-ai/joemurillo-ai/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution signal" src="https://raw.githubusercontent.com/joemurillo-ai/joemurillo-ai/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
 
 ## `joe@command:~$ contact --show`
 
@@ -185,5 +189,5 @@ Email      info@joemurillo.com
 ```
 
 <p align="center">
-  <sub>JOE // COMMAND v2.1 • public systems surface • live vs planned state is explicitly labeled</sub>
+  <sub>JOE // COMMAND v2.2 • operator-first public systems surface • live vs planned state explicitly labeled</sub>
 </p>
