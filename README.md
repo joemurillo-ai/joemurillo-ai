@@ -101,13 +101,13 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V5:TELEMETRY:START -->
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| ARIS | `main` | `c8144e9` | 8h ago | 32 | 32 | 0 | 0 | SUCCESS | ACTIVE |
+| ARIS | `main` | `c8144e9` | 13h ago | 32 | 32 | 0 | 0 | SUCCESS | ACTIVE |
 | XORIS | `master` | `8045ad7` | 100d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | PCAP TRIAGE | `main` | `d8b54ee` | 231d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | SECURITY BRIEFING | `main` | `c4d9d5a` | 230d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| HUMAN.EXE | `main` | `5d72fee` | 110d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
+| HUMAN.EXE | `main` | `5d72fee` | 111d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-09-17 11:39 UTC`  
+`telemetry_sync: 2026-09-17 16:59 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
