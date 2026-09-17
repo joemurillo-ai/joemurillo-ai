@@ -7,6 +7,7 @@ OWNER = "joemurillo-ai"
 REPO = "aris"
 OUT = Path("assets/live-telemetry.svg")
 
+# Public profile telemetry: intentionally limited to public GitHub metadata.
 def get(url):
     req = urllib.request.Request(url, headers={"User-Agent":"joe-profile-telemetry"})
     with urllib.request.urlopen(req, timeout=20) as r:
