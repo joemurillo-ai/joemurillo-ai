@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320">
-<rect width="1400" height="320" rx="26" fill="#0B0F14" stroke="#243142"/>
-<text x="70" y="68" fill="#7D8996" font-family="monospace" font-size="20">// LIVE SIGNAL</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360">
+<rect width="1400" height="360" rx="26" fill="#0B0F14" stroke="#243142"/>
+<text x="70" y="68" fill="#7D8996" font-family="monospace" font-size="20">// LIVE SIGNAL — PUBLIC GITHUB STATE</text>
 <circle cx="90" cy="125" r="8" fill="#00FF88"/>
-<text x="115" y="133" fill="#E6EDF3" font-family="Arial" font-size="26" font-weight="800">ARIS PUBLIC TELEMETRY</text>
-<text x="70" y="190" fill="#7D8996" font-family="monospace" font-size="18">Waiting for first scheduled telemetry sync...</text>
-<text x="70" y="248" fill="#00E5FF" font-family="monospace" font-size="17">GitHub Actions will regenerate this card from public repository state.</text>
+<text x="115" y="133" fill="#E6EDF3" font-family="Arial" font-size="27" font-weight="800">ARIS / MAIN — ONLINE</text>
+<text x="70" y="195" fill="#00E5FF" font-family="monospace" font-size="18">LATEST  c8144e9  //  feat: enforce mission agent authorization (#9)</text>
+<text x="70" y="245" fill="#E6EDF3" font-family="monospace" font-size="18">OPEN PRS  00     OPEN ISSUES  00     REPO SIZE  169 KB</text>
+<text x="70" y="303" fill="#7D8996" font-family="monospace" font-size="15">SYNC 2026-09-17 04:40 UTC  //  PUBLIC METADATA ONLY  //  NO PRIVATE TELEMETRY</text>
 </svg>
