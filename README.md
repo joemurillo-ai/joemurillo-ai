@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>JOE // COMMAND v2.2</strong><br/>
+  <strong>JOE // COMMAND v2.3</strong><br/>
   Physical Risk Intelligence • Agentic AI • Cybersecurity • Insurance • Autonomous Systems
 </p>
 
@@ -20,7 +20,7 @@ joe@command:~$ neofetch
   OBSERVE                    node_01   SENTINEL — Linux / Omarchy
   DECIDE                     node_02   WINDOWS — enterprise / engineering
   VERIFY                     doctrine  Human authority > agent authority
-  LEARN                      status    BUILDING
+  LEARN                      status    LIVE TELEMETRY ENABLED
 ```
 
 > **Building intelligence infrastructure that allows humans and machines to understand, measure, govern, and reduce physical risk.**
@@ -128,6 +128,37 @@ NODE 08  LAB        adversarial sandbox      PLANNED
 
 ---
 
+## `joe@command:~$ telemetry --live`
+
+This section is regenerated automatically from **public GitHub metadata** every six hours.
+
+<!-- V23:TELEMETRY:START -->
+| System | Branch | Head | Last commit | Open PRs | Open issues | Latest Action |
+|---|---|---:|---:|---:|---:|---|
+| ARIS | `main` | `syncing` | pending | — | — | — |
+| XORIS | `master` | `syncing` | pending | — | — | — |
+| PCAP TRIAGE | `main` | `syncing` | pending | — | — | — |
+| SECURITY BRIEFING | `main` | `syncing` | pending | — | — | — |
+| HUMAN.EXE | `main` | `syncing` | pending | — | — | — |
+
+`telemetry_sync: waiting for first automated run`  
+`boundary: public GitHub metadata only`
+<!-- V23:TELEMETRY:END -->
+
+---
+
+## `joe@command:~$ tail -n 10 mission.log`
+
+The mission log is built from recent public commits across the active intelligence portfolio.
+
+<!-- V23:MISSION_LOG:START -->
+| UTC | System | Mission event | Commit |
+|---|---|---|---|
+| — | — | waiting for first automated sync | — |
+<!-- V23:MISSION_LOG:END -->
+
+---
+
 ## `joe@command:~$ status --public`
 
 ```text
@@ -189,5 +220,5 @@ Email      info@joemurillo.com
 ```
 
 <p align="center">
-  <sub>JOE // COMMAND v2.2 • operator-first public systems surface • live vs planned state explicitly labeled</sub>
+  <sub>JOE // COMMAND v2.3 • live public command surface • automated telemetry + dynamic mission log</sub>
 </p>
