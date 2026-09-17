@@ -135,13 +135,13 @@ This section is regenerated automatically from **public GitHub metadata** every 
 <!-- V23:TELEMETRY:START -->
 | System | Branch | Head | Last commit | Open PRs | Open issues | Latest Action |
 |---|---|---:|---:|---:|---:|---|
-| ARIS | `main` | `syncing` | pending | — | — | — |
-| XORIS | `master` | `syncing` | pending | — | — | — |
-| PCAP TRIAGE | `main` | `syncing` | pending | — | — | — |
-| SECURITY BRIEFING | `main` | `syncing` | pending | — | — | — |
-| HUMAN.EXE | `main` | `syncing` | pending | — | — | — |
+| [ARIS](https://github.com/joemurillo-ai/aris) | `main` | `c8144e9` | 1h ago | 0 | 0 | SUCCESS |
+| [XORIS](https://github.com/joemurillo-ai/xoris-ai) | `master` | `8045ad7` | 100d ago | 0 | 0 | — |
+| [PCAP TRIAGE](https://github.com/joemurillo-ai/pcap-triage-pipeline) | `main` | `d8b54ee` | 231d ago | 0 | 0 | — |
+| [SECURITY BRIEFING](https://github.com/joemurillo-ai/azure-ai-security-briefing-agent) | `main` | `c4d9d5a` | 230d ago | 0 | 0 | — |
+| [HUMAN.EXE](https://github.com/joemurillo-ai/humanexe) | `main` | `5d72fee` | 110d ago | 0 | 0 | FAILURE |
 
-`telemetry_sync: waiting for first automated run`  
+`telemetry_sync: 2026-09-17 05:14 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V23:TELEMETRY:END -->
 
@@ -154,7 +154,16 @@ The mission log is built from recent public commits across the active intelligen
 <!-- V23:MISSION_LOG:START -->
 | UTC | System | Mission event | Commit |
 |---|---|---|---|
-| — | — | waiting for first automated sync | — |
+| 2026-09-17 03:25 | `aris` | feat: enforce mission agent authorization (#9) | [`c8144e9`](https://github.com/joemurillo-ai/aris/commit/c8144e93a307ca961437aa5d316cdd8a4a1f3a1f) |
+| 2026-09-17 02:59 | `aris` | chore: reconcile governance events roadmap status (#8) | [`5b38a76`](https://github.com/joemurillo-ai/aris/commit/5b38a76241f14c9b7c193b628db8f7d293f68d63) |
+| 2026-09-16 22:01 | `aris` | feat: add durable governance event history (#7) | [`9a66715`](https://github.com/joemurillo-ai/aris/commit/9a667153c9422e9e9d498e79d58b5acc79810436) |
+| 2026-09-16 17:58 | `aris` | chore: reconcile privacy redaction roadmap status (#6) | [`fa8f419`](https://github.com/joemurillo-ai/aris/commit/fa8f4196119492498d4109f0185855d08b81c367) |
+| 2026-09-16 17:04 | `aris` | feat: add bounded diagnostic redaction (#5) | [`62bcf0e`](https://github.com/joemurillo-ai/aris/commit/62bcf0e5661fd0710f540dbaac057a4a5aa652b6) |
+| 2026-06-09 03:38 | `xoris-ai` | XORIS v1.0 landing page complete | [`8045ad7`](https://github.com/joemurillo-ai/xoris-ai/commit/8045ad7a2abbd10e7d769a423a80a99aa5004248) |
+| 2026-05-29 15:18 | `humanexe` | Fix assessment desktop rating layout | [`5d72fee`](https://github.com/joemurillo-ai/humanexe/commit/5d72fee4f419313dfebea05ef0a6f4ac6c0438a9) |
+| 2026-05-29 15:10 | `humanexe` | Improve assessment rating UX | [`40045ba`](https://github.com/joemurillo-ai/humanexe/commit/40045ba5ad9a91d361e77976070b6243fc46873f) |
+| 2026-05-29 15:06 | `humanexe` | Build HUMAN.EXE Assessment V0.2 | [`f22471b`](https://github.com/joemurillo-ai/humanexe/commit/f22471b9f8da4316e443655c37b075d986a3c9ed) |
+| 2026-05-29 14:50 | `humanexe` | Fix assessment route redirect | [`df78854`](https://github.com/joemurillo-ai/humanexe/commit/df788547a5a522632778f8d3efcf489d1285667a) |
 <!-- V23:MISSION_LOG:END -->
 
 ---
