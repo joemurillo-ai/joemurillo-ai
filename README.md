@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>JOE // COMMAND V5</strong><br/>
+  <strong>JOE // COMMAND V5.1</strong><br/>
   <sub>PHYSICAL RISK INTELLIGENCE • AGENTIC AI • CYBERSECURITY • INSURANCE • AUTONOMOUS SYSTEMS</sub>
 </p>
 
@@ -157,8 +157,8 @@ NODE 08  LAB        adversarial sandbox      PLANNED
 
 | System | Role | State |
 |---|---|---|
-| [`ARIS`](https://github.com/joemurillo-ai/aris) | Governed intelligence / decision plane | **ACTIVE** |
-| [`XORIS`](https://github.com/joemurillo-ai/xoris-ai) | Governance / control plane | **ARCHITECTURE** |
+| <a href="https://github.com/joemurillo-ai/aris"><img src="./assets/repo-aris.svg" alt="ARIS" height="34"/></a> | Governed intelligence / decision plane | **ACTIVE** |
+| <a href="https://github.com/joemurillo-ai/xoris-ai"><img src="./assets/repo-xoris.svg" alt="XORIS" height="34"/></a> | Governance / control plane | **ARCHITECTURE** |
 | **CENTRA** | Physical / edge plane | **PLANNED** |
 | **Physical Risk Graph** | Compounding risk + outcome data asset | **DESIGN** |
 
@@ -166,11 +166,11 @@ NODE 08  LAB        adversarial sandbox      PLANNED
 
 | Repository | Mission |
 |---|---|
-| [`aris`](https://github.com/joemurillo-ai/aris) | Governed mission execution, lifecycle policy, authorization, audit, and agent-ready engineering |
-| [`xoris-ai`](https://github.com/joemurillo-ai/xoris-ai) | Governance and control-plane architecture |
-| [`pcap-triage-pipeline`](https://github.com/joemurillo-ai/pcap-triage-pipeline) | Network evidence → analysis → incident-ready reporting |
-| [`azure-ai-security-briefing-agent`](https://github.com/joemurillo-ai/azure-ai-security-briefing-agent) | AI-powered security briefing workflows |
-| [`humanexe`](https://github.com/joemurillo-ai/humanexe) | Human execution and workflow experiments |
+| <a href="https://github.com/joemurillo-ai/aris"><img src="./assets/repo-aris.svg" alt="aris" height="34"/></a> | Governed mission execution, lifecycle policy, authorization, audit, and agent-ready engineering |
+| <a href="https://github.com/joemurillo-ai/xoris-ai"><img src="./assets/repo-xoris.svg" alt="xoris-ai" height="34"/></a> | Governance and control-plane architecture |
+| <a href="https://github.com/joemurillo-ai/pcap-triage-pipeline"><img src="./assets/repo-pcap.svg" alt="pcap-triage-pipeline" height="34"/></a> | Network evidence → analysis → incident-ready reporting |
+| <a href="https://github.com/joemurillo-ai/azure-ai-security-briefing-agent"><img src="./assets/repo-security.svg" alt="azure-ai-security-briefing-agent" height="34"/></a> | AI-powered security briefing workflows |
+| <a href="https://github.com/joemurillo-ai/humanexe"><img src="./assets/repo-humanexe.svg" alt="humanexe" height="34"/></a> | Human execution and workflow experiments |
 
 ---
 
@@ -198,5 +198,5 @@ Email      info@joemurillo.com
 ```
 
 <p align="center">
-  <sub>JOE // COMMAND V5 • identity + portfolio operating system • live telemetry • governed autonomy • physical risk intelligence</sub>
+  <sub>JOE // COMMAND V5.1 • terminal green identity • portfolio operating system • live telemetry • governed autonomy • physical risk intelligence</sub>
 </p>
