@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="780" viewBox="0 0 1400 780">
+<rect width="1400" height="780" rx="26" fill="#0B0F14" stroke="#243142"/>
+<text x="70" y="68" fill="#7D8996" font-family="monospace" font-size="21">// 04 COMPUTE FABRIC</text>
+<text x="70" y="110" fill="#E6EDF3" font-family="Arial" font-size="31" font-weight="800">Distributed intelligence lab</text>
+<g font-family="Arial" font-size="19">
+<rect x="70" y="155" width="600" height="118" rx="16" fill="#0F1620" stroke="#00FF88"/>
+<text x="100" y="195" fill="#00FF88" font-weight="800">NODE 01 — SENTINEL</text>
+<text x="100" y="228" fill="#E6EDF3">Linux / Omarchy • security • infrastructure • SSH • Tailscale</text>
+<text x="100" y="253" fill="#7D8996" font-family="monospace" font-size="15">FOUNDATION // OPERATIONAL</text>
+
+<rect x="730" y="155" width="600" height="118" rx="16" fill="#0F1620" stroke="#00E5FF"/>
+<text x="760" y="195" fill="#00E5FF" font-weight="800">NODE 02 — ARIS / WINDOWS</text>
+<text x="760" y="228" fill="#E6EDF3">Windows + WSL2 • Docker • GitHub • development plane</text>
+<text x="760" y="253" fill="#7D8996" font-family="monospace" font-size="15">ACTIVE // ENGINEERING</text>
+
+<rect x="70" y="305" width="600" height="105" rx="16" fill="#0F1620" stroke="#8B5CF6"/>
+<text x="100" y="344" fill="#C4B5FD" font-weight="800">NODE 03 — macOS</text><text x="100" y="378" fill="#7D8996">Apple dev • iOS • mobile • executive cockpit</text>
+<rect x="730" y="305" width="600" height="105" rx="16" fill="#0F1620" stroke="#8B5CF6"/>
+<text x="760" y="344" fill="#C4B5FD" font-weight="800">NODE 04 — AI COMPUTE</text><text x="760" y="378" fill="#7D8996">Local inference • CV • GPU workloads</text>
+
+<rect x="70" y="440" width="600" height="105" rx="16" fill="#0F1620" stroke="#344252"/>
+<text x="100" y="479" fill="#E6EDF3" font-weight="800">NODE 05 — VAULT</text><text x="100" y="513" fill="#7D8996">Storage • backup • artifacts • intelligence ledger</text>
+<rect x="730" y="440" width="600" height="105" rx="16" fill="#0F1620" stroke="#344252"/>
+<text x="760" y="479" fill="#E6EDF3" font-weight="800">NODE 06 — CENTRA</text><text x="760" y="513" fill="#7D8996">Drones • sensors • physical edge • field compute</text>
+
+<rect x="70" y="575" width="600" height="105" rx="16" fill="#0F1620" stroke="#344252"/>
+<text x="100" y="614" fill="#E6EDF3" font-weight="800">NODE 07 — MOBILE OPS</text><text x="100" y="648" fill="#7D8996">iPhone • iPad • remote command • approvals</text>
+<rect x="730" y="575" width="600" height="105" rx="16" fill="#0F1620" stroke="#344252"/>
+<text x="760" y="614" fill="#E6EDF3" font-weight="800">NODE 08 — LAB</text><text x="760" y="648" fill="#7D8996">Sandbox • adversarial testing • prototypes</text>
+</g>
+<text x="70" y="733" fill="#7D8996" font-family="monospace" font-size="16">PLANNED NODES ARE TARGET ARCHITECTURE — NOT CLAIMS OF CURRENT DEPLOYMENT.</text>
+</svg>
