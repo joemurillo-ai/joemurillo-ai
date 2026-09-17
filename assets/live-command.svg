@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
+  <rect width="1200" height="470" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="468" rx="17" fill="none" stroke="#273449"/>
+  <text x="36" y="50" fill="#F8FAFC" font-size="24" font-weight="700" font-family="monospace">JOE // COMMAND V3</text>
+  <text x="36" y="78" fill="#67E8F9" font-size="14" font-family="monospace">LIVE MISSION CONTROL • INITIALIZING</text>
+  <text x="36" y="140" fill="#94A3B8" font-size="18" font-family="monospace">portfolio telemetry sync pending...</text>
+  <text x="36" y="447" fill="#475569" font-size="11" font-family="monospace">PUBLIC GITHUB METADATA ONLY • NO PRIVATE MISSION DATA • NO CREDENTIALS</text>
+</svg>
