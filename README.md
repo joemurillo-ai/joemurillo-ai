@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="./assets/joe-avatar-v2-1.jpg" width="180" alt="Joe Murillo — Physical Risk Intelligence Architect"/>
+  <img src="./assets/joe-avatar-v2-1.jpg" width="170" alt="Joe Murillo — Physical Risk Intelligence Architect"/>
 </p>
 
 <p align="center">
-  <strong>JOE // COMMAND v2.3</strong><br/>
+  <strong>JOE // COMMAND V3</strong><br/>
   Physical Risk Intelligence • Agentic AI • Cybersecurity • Insurance • Autonomous Systems
 </p>
 
+<p align="center">
+  <img src="./assets/live-command.svg" width="100%" alt="JOE // COMMAND V3 live mission control"/>
+</p>
+
 ```text
-joe@command:~$ neofetch
+joe@command:~$ mission-control
 
       ██╗███╗   ███╗        joe@command
       ██║████╗ ████║        -------------------------------------------
@@ -20,7 +24,7 @@ joe@command:~$ neofetch
   OBSERVE                    node_01   SENTINEL — Linux / Omarchy
   DECIDE                     node_02   WINDOWS — enterprise / engineering
   VERIFY                     doctrine  Human authority > agent authority
-  LEARN                      status    LIVE TELEMETRY ENABLED
+  LEARN                      status    MISSION CONTROL ONLINE
 ```
 
 > **Building intelligence infrastructure that allows humans and machines to understand, measure, govern, and reduce physical risk.**
@@ -128,42 +132,51 @@ NODE 08  LAB        adversarial sandbox      PLANNED
 
 ---
 
+## `joe@command:~$ pulse --portfolio`
+
+<!-- V3:PULSE:START -->
+```text
+PORTFOLIO PULSE
+------------------------------------------------------------
+commits_7d       syncing
+commits_30d      syncing
+active_repos_30d syncing
+ci_success       syncing
+attention        syncing
+open_prs         syncing
+open_issues      syncing
+```
+<!-- V3:PULSE:END -->
+
+---
+
 ## `joe@command:~$ telemetry --live`
 
 This section is regenerated automatically from **public GitHub metadata** every six hours.
 
 <!-- V23:TELEMETRY:START -->
-| System | Branch | Head | Last commit | Open PRs | Open issues | Latest Action |
-|---|---|---:|---:|---:|---:|---|
-| [ARIS](https://github.com/joemurillo-ai/aris) | `main` | `c8144e9` | 1h ago | 0 | 0 | SUCCESS |
-| [XORIS](https://github.com/joemurillo-ai/xoris-ai) | `master` | `8045ad7` | 100d ago | 0 | 0 | — |
-| [PCAP TRIAGE](https://github.com/joemurillo-ai/pcap-triage-pipeline) | `main` | `d8b54ee` | 231d ago | 0 | 0 | — |
-| [SECURITY BRIEFING](https://github.com/joemurillo-ai/azure-ai-security-briefing-agent) | `main` | `c4d9d5a` | 230d ago | 0 | 0 | — |
-| [HUMAN.EXE](https://github.com/joemurillo-ai/humanexe) | `main` | `5d72fee` | 110d ago | 0 | 0 | FAILURE |
+| System | Branch | Head | Last commit | 7d commits | PRs | Issues | Latest Action | Signal |
+|---|---|---:|---:|---:|---:|---:|---|---|
+| ARIS | `main` | `syncing` | pending | — | — | — | — | — |
+| XORIS | `master` | `syncing` | pending | — | — | — | — | — |
+| PCAP TRIAGE | `main` | `syncing` | pending | — | — | — | — | — |
+| SECURITY BRIEFING | `main` | `syncing` | pending | — | — | — | — | — |
+| HUMAN.EXE | `main` | `syncing` | pending | — | — | — | — | — |
 
-`telemetry_sync: 2026-09-17 05:14 UTC`  
+`telemetry_sync: waiting for V3 sync`  
 `boundary: public GitHub metadata only`
 <!-- V23:TELEMETRY:END -->
 
 ---
 
-## `joe@command:~$ tail -n 10 mission.log`
+## `joe@command:~$ tail -n 12 mission.log`
 
 The mission log is built from recent public commits across the active intelligence portfolio.
 
 <!-- V23:MISSION_LOG:START -->
 | UTC | System | Mission event | Commit |
 |---|---|---|---|
-| 2026-09-17 03:25 | `aris` | feat: enforce mission agent authorization (#9) | [`c8144e9`](https://github.com/joemurillo-ai/aris/commit/c8144e93a307ca961437aa5d316cdd8a4a1f3a1f) |
-| 2026-09-17 02:59 | `aris` | chore: reconcile governance events roadmap status (#8) | [`5b38a76`](https://github.com/joemurillo-ai/aris/commit/5b38a76241f14c9b7c193b628db8f7d293f68d63) |
-| 2026-09-16 22:01 | `aris` | feat: add durable governance event history (#7) | [`9a66715`](https://github.com/joemurillo-ai/aris/commit/9a667153c9422e9e9d498e79d58b5acc79810436) |
-| 2026-09-16 17:58 | `aris` | chore: reconcile privacy redaction roadmap status (#6) | [`fa8f419`](https://github.com/joemurillo-ai/aris/commit/fa8f4196119492498d4109f0185855d08b81c367) |
-| 2026-09-16 17:04 | `aris` | feat: add bounded diagnostic redaction (#5) | [`62bcf0e`](https://github.com/joemurillo-ai/aris/commit/62bcf0e5661fd0710f540dbaac057a4a5aa652b6) |
-| 2026-06-09 03:38 | `xoris-ai` | XORIS v1.0 landing page complete | [`8045ad7`](https://github.com/joemurillo-ai/xoris-ai/commit/8045ad7a2abbd10e7d769a423a80a99aa5004248) |
-| 2026-05-29 15:18 | `humanexe` | Fix assessment desktop rating layout | [`5d72fee`](https://github.com/joemurillo-ai/humanexe/commit/5d72fee4f419313dfebea05ef0a6f4ac6c0438a9) |
-| 2026-05-29 15:10 | `humanexe` | Improve assessment rating UX | [`40045ba`](https://github.com/joemurillo-ai/humanexe/commit/40045ba5ad9a91d361e77976070b6243fc46873f) |
-| 2026-05-29 15:06 | `humanexe` | Build HUMAN.EXE Assessment V0.2 | [`f22471b`](https://github.com/joemurillo-ai/humanexe/commit/f22471b9f8da4316e443655c37b075d986a3c9ed) |
-| 2026-05-29 14:50 | `humanexe` | Fix assessment route redirect | [`df78854`](https://github.com/joemurillo-ai/humanexe/commit/df788547a5a522632778f8d3efcf489d1285667a) |
+| — | — | waiting for V3 sync | — |
 <!-- V23:MISSION_LOG:END -->
 
 ---
@@ -229,5 +242,5 @@ Email      info@joemurillo.com
 ```
 
 <p align="center">
-  <sub>JOE // COMMAND v2.3 • live public command surface • automated telemetry + dynamic mission log</sub>
+  <sub>JOE // COMMAND V3 • live mission control • portfolio pulse • automated telemetry • dynamic mission log</sub>
 </p>
