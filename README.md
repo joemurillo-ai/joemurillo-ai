@@ -1,138 +1,174 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="JOE // COMMAND — Intelligence Systems"/>
+  <img src="./assets/joe-avatar-v2-1.png" width="190" alt="Joe Murillo — Physical Risk Intelligence Architect"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/joemurillo-ai/aris"><b>ARIS</b></a>
-  &nbsp;•&nbsp; Agentic AI
-  &nbsp;•&nbsp; Cybersecurity
-  &nbsp;•&nbsp; Insurance
-  &nbsp;•&nbsp; Physical Risk Intelligence
+  <strong>JOE // COMMAND</strong><br/>
+  Physical Risk Intelligence • Agentic AI • Cybersecurity • Insurance • Autonomous Systems
 </p>
 
----
+```text
+┌────────────────────────────────────────────────────────────────────┐
+│ joe@command:~$ boot                                                │
+├────────────────────────────────────────────────────────────────────┤
+│ USER        Joe Murillo                                            │
+│ ROLE        Physical Risk Intelligence Architect                   │
+│ MISSION      Build intelligence infrastructure for the physical     │
+│              world — governed, observable, auditable, reversible.   │
+│ STATUS       BUILDING                                              │
+│ PROTOCOL     OBSERVE → DECIDE → VERIFY → LEARN                     │
+└────────────────────────────────────────────────────────────────────┘
+```
 
-## `01 // MISSION`
+## `joe@command:~$ neofetch`
 
-I’m building **intelligence infrastructure for the physical world** — systems that allow humans and machines to understand, measure, govern, and reduce physical risk.
+```text
+                 ╭──────────────────────────────╮
+             ╭───┤ JOE // INTELLIGENCE SYSTEMS ├───╮
+             │   ╰──────────────────────────────╯   │
+             │                                       │
+             │          ┌───────────────┐            │
+             │          │     XORIS     │            │
+             │          │   CONTROL     │            │
+             │          └──────┬────────┘            │
+             │                 │                     │
+             │        ┌────────▼────────┐             │
+             │        │      ARIS       │             │
+             │        │  INTELLIGENCE   │             │
+             │        └────────┬────────┘             │
+             │                 │                     │
+             │       ┌─────────▼─────────┐            │
+             │       │      CENTRA       │            │
+             │       │  PHYSICAL / EDGE  │            │
+             │       └───────────────────┘            │
+             ╰────────────────────────────────────────╯
 
-> **Observation → Risk → Decision → Action → Verification → Outcome**
+joe@command
+----------------------------------------------------------------------
+OS:              Human + Machine Intelligence Stack
+Role:            Physical Risk Intelligence Architect
+Focus:           Agentic AI / Cybersecurity / Insurance / Physical Risk
+Current Build:   ARIS / XORIS / CENTRA / Physical Risk Graph
+Node_01:         SENTINEL — Linux / Omarchy
+Node_02:         WINDOWS — enterprise + engineering plane
+Infra:           Docker / WSL2 / SSH / Tailscale
+Data:            PostgreSQL / Supabase / Dataverse
+Interface:       GitHub / VS Code / Next.js / Power Platform
+Doctrine:        Human authority > agent authority
+```
 
-The long-term asset is not a single model, drone, or application. It is the continuously improving **Physical Risk Graph** produced by governed observation, decisions, remediation, verification, and outcomes.
+## `joe@command:~$ cat mission.txt`
 
----
+Build the intelligence infrastructure that allows humans and machines to **understand, measure, govern, and reduce physical risk**.
 
-## `02 // SYSTEM ARCHITECTURE`
+```text
+OBSERVATION
+    ↓
+RISK INTERPRETATION
+    ↓
+DECISION
+    ↓
+REMEDIATION / ACTION
+    ↓
+VERIFICATION
+    ↓
+OUTCOME
+    ↓
+PHYSICAL RISK GRAPH
+```
 
-<p align="center">
-  <img src="./assets/architecture.svg" width="100%" alt="JOE intelligence architecture"/>
-</p>
+The long-term compounding asset is not a specific model, drone, or application. It is the continuously improving **Physical Risk Graph** created from governed observations, decisions, remediation, verification, and outcomes.
 
-**JOE** is human command authority.  
-**XORIS** governs identity, missions, permissions, approval, trust, audit, and enforcement.  
-**ARIS** reasons. **ATLAS** establishes what is true. **PRAXIS** plans. **SENTINEL** challenges assumptions, confidence, and security.  
-**CENTRA** senses and verifies the physical world through replaceable edge endpoints.
+## `joe@command:~$ tree ./systems -L 3`
 
----
+```text
+systems
+├── XORIS
+│   ├── role ........ governance / control plane
+│   ├── owns ........ identity / missions / policy / approvals
+│   ├── trust ....... audit / quarantine / kill switch
+│   └── status ...... ARCHITECTURE
+│
+├── ARIS
+│   ├── role ........ intelligence / decision plane
+│   ├── ATLAS ....... what is true
+│   ├── PRAXIS ...... what should be done
+│   ├── SENTINEL .... adversarial challenge / confidence / security
+│   └── status ...... ACTIVE
+│
+└── CENTRA
+    ├── role ........ physical / edge plane
+    ├── endpoints ... drones / sensors / computer vision / robotics
+    ├── purpose ..... observe / locate / act / verify
+    └── status ...... PLANNED
+```
 
-## `03 // LIVE SIGNAL`
+## `joe@command:~$ show_nodes`
 
-<p align="center">
-  <img src="./assets/live-telemetry.svg" width="100%" alt="Live public ARIS telemetry"/>
-</p>
+```text
+NODE 01  SENTINEL   Linux / Omarchy          ONLINE
+         └─ security • infrastructure • SSH • Tailscale
 
-This card is regenerated by GitHub Actions from **public GitHub state**. No private mission payloads, prompts, credentials, or internal telemetry are published.
+NODE 02  WINDOWS    Microsoft / Enterprise   ACTIVE
+         └─ GitHub • VS Code • Copilot • Power Platform • Azure
 
----
+NODE 03  macOS      Apple dev cockpit        PLANNED
+NODE 04  ATLAS      AI / GPU compute         PLANNED
+NODE 05  VAULT      storage / artifacts      PLANNED
+NODE 06  CENTRA     physical / edge          PLANNED
+NODE 07  MOBILE     iPhone / iPad ops        ACTIVE
+NODE 08  LAB        adversarial sandbox      PLANNED
+```
 
-## `04 // COMPUTE FABRIC`
+## `joe@command:~$ ls ./spotlight`
 
-<p align="center">
-  <img src="./assets/node-fabric.svg" width="100%" alt="Joe Compute Fabric"/>
-</p>
-
-**Node 01 — SENTINEL** is the Linux infrastructure/security foundation.  
-**Node 02 — ARIS / Windows** is the active Windows + WSL2 engineering plane.  
-Nodes 03–08 represent the target distributed lab and are deliberately labeled as architecture until deployed.
-
----
-
-## `05 // ACTIVE PROGRAMS`
-
-| Program | Function | Public state |
-|---|---|---|
-| **ARIS** | Intelligence / decision plane | **Active development** |
-| **XORIS** | Governance / control plane | Architecture |
-| **CENTRA** | Physical / edge plane | Planned |
-| **Physical Risk Graph** | Compounding risk/outcome data asset | Design |
-
-### [`ARIS — Adaptive Risk Intelligence System`](https://github.com/joemurillo-ai/aris)
-
-Current public work includes governed mission lifecycles, durable governance history, mission-correlated agent authorization, bounded diagnostic redaction, deterministic mission-health queries, and an agent-ready engineering queue.
-
----
-
-## `06 // MISSION LOG`
-
-Recent public ARIS milestones:
-
-| Date | Mission event |
+| System | Mission |
 |---|---|
-| 2026-09-16 | Mission-correlated agent authorization |
-| 2026-09-16 | Durable governance event history |
-| 2026-09-16 | Bounded diagnostic credential redaction |
-| 2026-09-15 | Mission lifecycle enforcement |
-| 2026-09-13 | Autonomous engineering roadmap queue |
+| [`ARIS`](https://github.com/joemurillo-ai/aris) | Governed mission execution, authorization, lifecycle policy, audit, and agent-ready engineering |
+| [`XORIS`](https://github.com/joemurillo-ai/xoris-ai) | Governance and control-plane architecture |
+| [`PCAP Triage Pipeline`](https://github.com/joemurillo-ai/pcap-triage-pipeline) | Network evidence → analysis → incident-ready reporting |
+| [`Azure AI Security Briefing Agent`](https://github.com/joemurillo-ai/azure-ai-security-briefing-agent) | AI-powered security briefing workflows |
+| [`Human.exe`](https://github.com/joemurillo-ai/humanexe) | Human execution and workflow experiments |
 
----
-
-## `07 // TECHNOLOGY STACK`
-
-**Intelligence** — `Python` `Agentic AI` `OpenAI` `Azure AI` `Computer Vision`  
-**Control** — `Zero Trust` `Authorization` `Policy` `Audit` `GitHub Actions`  
-**Infrastructure** — `Linux` `Omarchy` `Windows` `WSL2` `Docker` `SSH` `Tailscale`  
-**Data & Apps** — `PostgreSQL` `Supabase` `Dataverse` `Next.js` `Power Platform`  
-**Physical** — `Drones` `Edge AI` `Geospatial` `Risk Engineering`
-
----
-
-## `08 // ENGINEERING DOCTRINE`
-
-<p align="center">
-  <img src="./assets/doctrine.svg" width="100%" alt="Engineering doctrine"/>
-</p>
-
----
-
-## `09 // CURRENT BUILD`
+## `joe@command:~$ status --public`
 
 ```text
 ARIS
-├── mission lifecycle policy ............ ONLINE
-├── governance event history ............ ONLINE
-├── mission-agent authorization ......... ONLINE
-├── diagnostic redaction ................ ONLINE
-├── roadmap / mission queue ............. ONLINE
-└── broader execution plane ............. BUILDING
+├── mission lifecycle policy ................. ONLINE
+├── durable governance history ............... ONLINE
+├── mission-agent authorization .............. ONLINE
+├── diagnostic redaction ..................... ONLINE
+├── engineering mission queue ................ ONLINE
+└── broader execution plane .................. BUILDING
 
 XORIS
-├── agent identity / passports .......... DESIGN
-├── capability policy ................... DESIGN
-├── mission authority ................... DESIGN
-├── human approval ...................... DESIGN
-├── trust / quarantine / kill switch .... DESIGN
-└── observability / audit ............... DESIGN
+├── agent identity / passports ............... DESIGN
+├── mission authority ........................ DESIGN
+├── capability control ....................... DESIGN
+├── human approvals .......................... DESIGN
+├── trust / quarantine / kill switch ......... DESIGN
+└── observability / audit integration ........ DESIGN
 
 CENTRA
-├── sensing ............................. PLANNED
-├── drones / physical endpoints ......... PLANNED
-├── computer vision ..................... PLANNED
-└── outcome verification ................ PLANNED
+├── field sensing ............................ PLANNED
+├── drone endpoints .......................... PLANNED
+├── computer vision .......................... PLANNED
+└── outcome verification ..................... PLANNED
 ```
 
----
+## `joe@command:~$ cat doctrine.txt`
 
-## `10 // PUBLIC CONTRIBUTION SIGNAL`
+```text
+01  BUILD DIGITAL TWINS OF FUNCTIONS — NOT DIGITAL TWINS OF PEOPLE.
+02  HUMAN AUTHORITY > AGENT AUTHORITY.
+03  NO AUTONOMY WITHOUT IDENTITY, POLICY, AUTHORIZATION,
+    OBSERVABILITY, AUDIT, AND REVERSIBILITY.
+04  THE DRONE IS A SENSOR.
+05  THE MODEL IS A PERCEPTION LAYER.
+06  VERIFIED OUTCOME DATA COMPOUNDS.
+```
+
+## `joe@command:~$ ./contribution_signal`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joemurillo-ai/joemurillo-ai/output/github-contribution-grid-snake-dark.svg">
@@ -140,19 +176,14 @@ CENTRA
   <img alt="GitHub contribution signal" src="https://raw.githubusercontent.com/joemurillo-ai/joemurillo-ai/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+## `joe@command:~$ contact --show`
 
-## `11 // OPERATING PRINCIPLES`
-
-- Human authority remains explicit.
-- Agents receive bounded capabilities, not ambient trust.
-- Security evidence and auditability are first-class system outputs.
-- Hardware endpoints are replaceable.
-- Models are replaceable.
-- **Verified outcome data compounds.**
-
----
+```text
+GitHub     github.com/joemurillo-ai
+LinkedIn   linkedin.com/in/joemurillo
+Email      info@joemurillo.com
+```
 
 <p align="center">
-  <sub>JOE // COMMAND • Public systems surface • Architecture and status are labeled to separate what is live from what is planned.</sub>
+  <sub>JOE // COMMAND v2.1 • public systems surface • live vs planned state is explicitly labeled</sub>
 </p>
