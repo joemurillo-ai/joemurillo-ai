@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320">
+<rect width="1400" height="320" rx="26" fill="#0B0F14" stroke="#243142"/>
+<text x="70" y="68" fill="#7D8996" font-family="monospace" font-size="20">// LIVE SIGNAL</text>
+<circle cx="90" cy="125" r="8" fill="#00FF88"/>
+<text x="115" y="133" fill="#E6EDF3" font-family="Arial" font-size="26" font-weight="800">ARIS PUBLIC TELEMETRY</text>
+<text x="70" y="190" fill="#7D8996" font-family="monospace" font-size="18">Waiting for first scheduled telemetry sync...</text>
+<text x="70" y="248" fill="#00E5FF" font-family="monospace" font-size="17">GitHub Actions will regenerate this card from public repository state.</text>
+</svg>
