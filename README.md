@@ -53,7 +53,7 @@ JOE
 ```text
 PORTFOLIO PULSE
 ----------------------------------------------------------------
-commits_7d           9
+commits_7d           6
 commits_30d          38
 active_repos_30d     1/5
 ci_success           1
@@ -101,13 +101,13 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V5:TELEMETRY:START -->
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| ARIS | `main` | `64cef72` | 6d ago | 9 | 38 | 0 | 0 | SUCCESS | ACTIVE |
-| XORIS | `master` | `8045ad7` | 106d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| PCAP TRIAGE | `main` | `d8b54ee` | 237d ago | 0 | 0 | 0 | 0 | — | DORMANT |
+| ARIS | `main` | `64cef72` | 6d ago | 6 | 38 | 0 | 0 | SUCCESS | ACTIVE |
+| XORIS | `master` | `8045ad7` | 107d ago | 0 | 0 | 0 | 0 | — | DORMANT |
+| PCAP TRIAGE | `main` | `d8b54ee` | 238d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | SECURITY BRIEFING | `main` | `c4d9d5a` | 236d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | HUMAN.EXE | `main` | `5d72fee` | 117d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-09-23 21:29 UTC`  
+`telemetry_sync: 2026-09-24 04:48 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
