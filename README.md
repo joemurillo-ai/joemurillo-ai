@@ -105,9 +105,9 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 | XORIS | `master` | `8045ad7` | 109d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | PCAP TRIAGE | `main` | `d8b54ee` | 240d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | SECURITY BRIEFING | `main` | `c4d9d5a` | 239d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| HUMAN.EXE | `main` | `5d72fee` | 119d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
+| HUMAN.EXE | `main` | `5d72fee` | 120d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-09-26 11:23 UTC`  
+`telemetry_sync: 2026-09-26 16:22 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
