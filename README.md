@@ -73,7 +73,7 @@ Operational signal only — **not a security rating**. It combines public commit
 <!-- V5:TRUST:START -->
 | System | Activity | CI | Work pressure | Operational signal |
 |---|---|---|---|---|
-| ARIS | ACTIVE | SUCCESS | CLEAR | GREEN |
+| ARIS | WARM | SUCCESS | CLEAR | AMBER |
 | XORIS | DORMANT | — | CLEAR | STANDBY |
 | PCAP TRIAGE | DORMANT | — | CLEAR | STANDBY |
 | SECURITY BRIEFING | DORMANT | — | CLEAR | STANDBY |
@@ -101,13 +101,13 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V5:TELEMETRY:START -->
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| ARIS | `main` | `64cef72` | 14d ago | 0 | 38 | 0 | 0 | SUCCESS | ACTIVE |
+| ARIS | `main` | `64cef72` | 15d ago | 0 | 38 | 0 | 0 | SUCCESS | WARM |
 | XORIS | `master` | `8045ad7` | 115d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | PCAP TRIAGE | `main` | `d8b54ee` | 246d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | SECURITY BRIEFING | `main` | `c4d9d5a` | 245d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| HUMAN.EXE | `main` | `5d72fee` | 125d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
+| HUMAN.EXE | `main` | `5d72fee` | 126d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-10-02 12:32 UTC`  
+`telemetry_sync: 2026-10-02 22:12 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
