@@ -102,12 +102,12 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
 | ARIS | `main` | `64cef72` | 15d ago | 0 | 38 | 0 | 0 | SUCCESS | WARM |
-| XORIS | `master` | `8045ad7` | 115d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| PCAP TRIAGE | `main` | `d8b54ee` | 246d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| SECURITY BRIEFING | `main` | `c4d9d5a` | 245d ago | 0 | 0 | 0 | 0 | — | DORMANT |
+| XORIS | `master` | `8045ad7` | 116d ago | 0 | 0 | 0 | 0 | — | DORMANT |
+| PCAP TRIAGE | `main` | `d8b54ee` | 247d ago | 0 | 0 | 0 | 0 | — | DORMANT |
+| SECURITY BRIEFING | `main` | `c4d9d5a` | 246d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | HUMAN.EXE | `main` | `5d72fee` | 126d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-10-02 22:12 UTC`  
+`telemetry_sync: 2026-10-03 05:17 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
