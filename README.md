@@ -54,7 +54,7 @@ JOE
 PORTFOLIO PULSE
 ----------------------------------------------------------------
 commits_7d           0
-commits_30d          16
+commits_30d          15
 active_repos_30d     1/5
 ci_success           1
 attention_signals    1
@@ -101,13 +101,13 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V5:TELEMETRY:START -->
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| ARIS | `main` | `64cef72` | 25d ago | 0 | 16 | 0 | 0 | SUCCESS | WARM |
-| XORIS | `master` | `8045ad7` | 125d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| PCAP TRIAGE | `main` | `d8b54ee` | 256d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| SECURITY BRIEFING | `main` | `c4d9d5a` | 255d ago | 0 | 0 | 0 | 0 | — | DORMANT |
+| ARIS | `main` | `64cef72` | 25d ago | 0 | 15 | 0 | 0 | SUCCESS | WARM |
+| XORIS | `master` | `8045ad7` | 126d ago | 0 | 0 | 0 | 0 | — | DORMANT |
+| PCAP TRIAGE | `main` | `d8b54ee` | 257d ago | 0 | 0 | 0 | 0 | — | DORMANT |
+| SECURITY BRIEFING | `main` | `c4d9d5a` | 256d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | HUMAN.EXE | `main` | `5d72fee` | 136d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-10-13 00:38 UTC`  
+`telemetry_sync: 2026-10-13 14:09 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
