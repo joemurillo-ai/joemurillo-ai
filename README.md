@@ -102,12 +102,12 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
 | ARIS | `main` | `64cef72` | 26d ago | 0 | 13 | 0 | 0 | SUCCESS | WARM |
-| XORIS | `master` | `8045ad7` | 126d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| PCAP TRIAGE | `main` | `d8b54ee` | 257d ago | 0 | 0 | 0 | 0 | — | DORMANT |
+| XORIS | `master` | `8045ad7` | 127d ago | 0 | 0 | 0 | 0 | — | DORMANT |
+| PCAP TRIAGE | `main` | `d8b54ee` | 258d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | SECURITY BRIEFING | `main` | `c4d9d5a` | 256d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | HUMAN.EXE | `main` | `5d72fee` | 137d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-10-13 22:43 UTC`  
+`telemetry_sync: 2026-10-14 04:51 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
