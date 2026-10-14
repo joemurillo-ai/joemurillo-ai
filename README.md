@@ -104,10 +104,10 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 | ARIS | `main` | `64cef72` | 26d ago | 0 | 13 | 0 | 0 | SUCCESS | WARM |
 | XORIS | `master` | `8045ad7` | 127d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | PCAP TRIAGE | `main` | `d8b54ee` | 258d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| SECURITY BRIEFING | `main` | `c4d9d5a` | 256d ago | 0 | 0 | 0 | 0 | — | DORMANT |
+| SECURITY BRIEFING | `main` | `c4d9d5a` | 257d ago | 0 | 0 | 0 | 0 | — | DORMANT |
 | HUMAN.EXE | `main` | `5d72fee` | 137d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-10-14 04:51 UTC`  
+`telemetry_sync: 2026-10-14 11:49 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
