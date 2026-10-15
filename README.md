@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="./assets/joe-command-neofetch.svg" width="100%" alt="Joe Murillo — terminal neofetch identity"/>
-</p>
-
-<p align="center">
-  <strong>JOE // COMMAND</strong><br/>
-  <sub>PHYSICAL RISK INTELLIGENCE • AGENTIC AI • CYBERSECURITY • INSURANCE • AUTONOMOUS SYSTEMS</sub>
+  <img src="./assets/joe-command-hero-v7.svg" width="100%" alt="JOE // COMMAND — Governed AI, Cybersecurity, Physical Risk Intelligence. Practical intelligence for real-world decisions."/>
 </p>
 
 <p align="center">
