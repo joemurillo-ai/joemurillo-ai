@@ -2,17 +2,13 @@
   <img src="./assets/joe-command-hero-v7.svg" width="100%" alt="JOE // COMMAND — Governed AI, Cybersecurity, Physical Risk Intelligence. Practical intelligence for real-world decisions."/>
 </p>
 
-<p align="center">
-  <img src="./assets/live-command.svg" width="100%" alt="JOE // COMMAND live command deck"/>
-</p>
-
 > **Building governed intelligence infrastructure for the physical world — systems that help humans and machines observe, reason, decide, act, verify, and learn.**
 
 ```text
 joe@command:~$ identity --public
 
 name         Joe Murillo
-role         Physical Risk Intelligence Architect
+role         Insurance + AI Systems Builder
 focus        Agentic AI / Cybersecurity / Insurance / Physical Risk
 building     ARIS / XORIS / CENTRA / Physical Risk Graph
 industry     Commercial Insurance / Loss Control / Risk Engineering
@@ -59,6 +55,19 @@ JOE
 ```
 
 **Target architecture:** XORIS is envisioned as the governance/control plane; ARIS as the intelligence/decision plane; CENTRA as the physical/edge plane; and the Physical Risk Graph as a longer-term evidence asset. These are distinct stages of development, not a claim of end-to-end deployment.
+
+---
+
+## `joe@command:~$ dashboard --details`
+
+<details>
+<summary><strong>Expand the command-center visual</strong> — portfolio telemetry and system status are shown below</summary>
+
+<p align="center">
+  <img src="./assets/live-command.svg" width="100%" alt="JOE // COMMAND portfolio command dashboard illustration"/>
+</p>
+
+</details>
 
 ---
 
@@ -216,5 +225,5 @@ Email      info@joemurillo.com
 ```
 
 <p align="center">
-  <sub>JOE // COMMAND • terminal green • mobile-first command surface • live telemetry • governed autonomy</sub>
+  <sub>JOE // COMMAND • secure AI • real-world risk • evidence before claims</sub>
 </p>
