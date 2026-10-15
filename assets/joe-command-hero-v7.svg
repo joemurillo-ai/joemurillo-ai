@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="460" viewBox="0 0 1600 460" role="img" aria-labelledby="title desc">
+<title id="title">JOE // COMMAND — Governed AI, Cybersecurity, Physical Risk Intelligence</title>
+<desc id="desc">Dark navy command-center banner with crisp typography, a cyan network motif, and an evidence-first engineering statement.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101f"/><stop offset=".6" stop-color="#0b2032"/><stop offset="1" stop-color="#07111e"/></linearGradient>
+ <linearGradient id="line" x1="0" x2="1"><stop stop-color="#11d8e8"/><stop offset="1" stop-color="#2e7ca4"/></linearGradient>
+ <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#20445b" stroke-opacity=".25"/></pattern>
+</defs>
+<rect width="1600" height="460" fill="url(#bg)"/><rect width="1600" height="460" fill="url(#grid)"/>
+<path d="M0 8H1600M0 452H1600" stroke="#1dd6e7" stroke-opacity=".6" stroke-width="2"/>
+<g opacity=".3" stroke="#27c4df" fill="none" stroke-width="2"><circle cx="1300" cy="210" r="145"/><circle cx="1300" cy="210" r="105"/><circle cx="1300" cy="210" r="60"/><path d="M1080 210H1520M1300 0V420M1160 70L1440 350M1440 70L1160 350"/></g>
+<g fill="#24d8e8"><circle cx="1300" cy="65" r="7"/><circle cx="1445" cy="210" r="7"/><circle cx="1195" cy="315" r="7"/><circle cx="1300" cy="210" r="10"/></g>
+<rect x="74" y="71" width="7" height="228" rx="3" fill="url(#line)"/>
+<text x="111" y="154" font-family="DejaVu Sans,Arial,sans-serif" font-size="72" font-weight="700" fill="#f7fbff" letter-spacing="2">JOE</text>
+<text x="290" y="154" font-family="DejaVu Sans,Arial,sans-serif" font-size="69" font-weight="700" fill="#15d4e8">//</text>
+<text x="376" y="154" font-family="DejaVu Sans,Arial,sans-serif" font-size="66" font-weight="300" fill="#f7fbff" letter-spacing="4">COMMAND</text>
+<text x="111" y="211" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#6ce8f1" letter-spacing="2">GOVERNED AI  ·  CYBERSECURITY  ·  PHYSICAL RISK</text>
+<text x="111" y="270" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" fill="#e7f0f6">Practical intelligence for real-world decisions.</text>
+<path d="M111 310H865" stroke="#36a6ba" stroke-opacity=".55"/>
+<text x="111" y="353" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#a7bdcb">HUMAN AUTHORITY FIRST</text>
+<text x="111" y="391" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#8da9b9">INSURANCE  /  RISK ENGINEERING  /  SECURE AUTOMATION</text>
+<text x="1300" y="402" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#75d9e5" letter-spacing="3">BUILD  •  VERIFY  •  IMPROVE</text>
+</svg>
