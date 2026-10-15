@@ -29,6 +29,27 @@ status       ALWAYS BUILDING
 
 ---
 
+## `joe@command:~$ whoami --impact`
+
+**Insurance domain expertise × secure AI engineering × physical-world intelligence.**
+
+I build practical, human-governed intelligence systems informed by commercial insurance, loss control, business development, and cybersecurity. My focus is translating operational risk into auditable software: clear authority, explicit limits, useful evidence, and measurable outcomes.
+
+**Explore the work first:**
+
+| Project | What it demonstrates | Current public status |
+| --- | --- | --- |
+| [ARIS](https://github.com/joemurillo-ai/aris) | Mission lifecycle, agent authorization, governance history, and security-first AI orchestration | Active research and development; public repository may lag local work |
+| [Azure AI Security Briefing Agent](https://github.com/joemurillo-ai/azure-ai-security-briefing-agent) | Translating cloud security signals into decision-ready briefings | Export-first MVP; live integrations planned |
+| [PCAP Triage Pipeline](https://github.com/joemurillo-ai/pcap-triage-pipeline) | Network evidence extraction and structured investigation reporting | Demonstration / learning project |
+| [XORIS](https://github.com/joemurillo-ai/xoris-ai) | Product positioning and a web interface for commercial growth intelligence | Landing-page implementation; not a deployed AI control plane |
+
+**Engineering approach:** human authority before agent autonomy · least privilege · explicit failure states · reproducible tests · honest maturity labels.
+
+**Important boundary:** Architecture diagrams express design direction, not proof that all components are deployed, integrated, or operational. Experimental execution controls are not production security guarantees.
+
+---
+
 ## `joe@command:~$ cat architecture.sys`
 
 ```text
@@ -42,8 +63,7 @@ JOE
                 └── PHYSICAL RISK GRAPH
 ```
 
-**XORIS** owns authority, identity, missions, capabilities, policy, human approvals, trust, quarantine, kill switches, observability, and audit.  
-**ARIS** reasons. **CENTRA** senses and verifies the physical world. The **Physical Risk Graph** is the compounding outcome asset.
+**Target architecture:** XORIS is envisioned as the governance/control plane; ARIS as the intelligence/decision plane; CENTRA as the physical/edge plane; and the Physical Risk Graph as a longer-term evidence asset. These are distinct stages of development, not a claim of end-to-end deployment.
 
 ---
 
@@ -137,7 +157,7 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 ## `joe@command:~$ show_nodes --fabric`
 
 ```text
-NODE 01  SENTINEL   Linux / Omarchy          ONLINE
+NODE 01  SENTINEL   Linux / Omarchy          ACTIVE
          └─ security • infrastructure • SSH • Tailscale
 
 NODE 02  WINDOWS    Microsoft / Enterprise   ACTIVE
