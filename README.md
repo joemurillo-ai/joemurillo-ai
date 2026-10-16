@@ -77,14 +77,14 @@ JOE
 ```text
 PORTFOLIO PULSE
 ----------------------------------------------------------------
-commits_7d           0
-commits_30d          13
-active_repos_30d     1/5
+commits_7d           4
+commits_30d          15
+active_repos_30d     5/5
 ci_success           1
 attention_signals    1
-open_prs             0
+open_prs             1
 open_issues          0
-focus_repo           ARIS
+focus_repo           XORIS
 ```
 <!-- V5:PULSE:END -->
 
@@ -98,10 +98,10 @@ Operational signal only — **not a security rating**. It combines public commit
 | System | Activity | CI | Work pressure | Operational signal |
 |---|---|---|---|---|
 | ARIS | WARM | SUCCESS | CLEAR | AMBER |
-| XORIS | DORMANT | — | CLEAR | STANDBY |
-| PCAP TRIAGE | DORMANT | — | CLEAR | STANDBY |
-| SECURITY BRIEFING | DORMANT | — | CLEAR | STANDBY |
-| HUMAN.EXE | ATTENTION | FAILURE | CLEAR | ATTENTION |
+| XORIS | ACTIVE | — | CLEAR | GREEN |
+| PCAP TRIAGE | ACTIVE | — | CLEAR | GREEN |
+| SECURITY BRIEFING | ACTIVE | — | CLEAR | GREEN |
+| HUMAN.EXE | ATTENTION | FAILURE | LIGHT | ATTENTION |
 <!-- V5:TRUST:END -->
 
 ---
@@ -111,9 +111,9 @@ Operational signal only — **not a security rating**. It combines public commit
 Public execution queue derived from open pull requests and issues across the tracked portfolio.
 
 <!-- V5:QUEUE:START -->
-```text
-QUEUE CLEAR — no open public PRs or issues across tracked repositories.
-```
+| Type | System | Work item |
+|---|---|---|
+| PR | `humanexe` | #1 Fix HUMAN.EXE waitlist false-positive signups (review only) |
 <!-- V5:QUEUE:END -->
 
 ---
@@ -125,13 +125,13 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V5:TELEMETRY:START -->
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| ARIS | `main` | `64cef72` | 27d ago | 0 | 13 | 0 | 0 | SUCCESS | WARM |
-| XORIS | `master` | `8045ad7` | 128d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| PCAP TRIAGE | `main` | `d8b54ee` | 259d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| SECURITY BRIEFING | `main` | `c4d9d5a` | 258d ago | 0 | 0 | 0 | 0 | — | DORMANT |
-| HUMAN.EXE | `main` | `5d72fee` | 139d ago | 0 | 0 | 0 | 0 | FAILURE | ATTENTION |
+| ARIS | `main` | `64cef72` | 28d ago | 0 | 11 | 0 | 0 | SUCCESS | WARM |
+| XORIS | `master` | `a617b39` | 6h ago | 1 | 1 | 0 | 0 | — | ACTIVE |
+| PCAP TRIAGE | `main` | `518c6b8` | 6h ago | 1 | 1 | 0 | 0 | — | ACTIVE |
+| SECURITY BRIEFING | `main` | `6b4818b` | 6h ago | 1 | 1 | 0 | 0 | — | ACTIVE |
+| HUMAN.EXE | `main` | `b753092` | 6h ago | 1 | 1 | 1 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-10-15 16:59 UTC`  
+`telemetry_sync: 2026-10-16 04:30 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
@@ -142,6 +142,10 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V5:MISSION_LOG:START -->
 | UTC | System | Mission event | Commit |
 |---|---|---|---|
+| 2026-10-15 22:18 | `humanexe` | docs(humanexe): disclose waitlist persistence gap and release gates | `b753092` |
+| 2026-10-15 22:17 | `xoris-ai` | docs(xoris): clarify prototype scope and reproducibility | `a617b39` |
+| 2026-10-15 22:12 | `azure-ai-security-briefing-agent` | docs(security-briefing): distinguish MVP from planned cloud integrations | `6b4818b` |
+| 2026-10-15 22:12 | `pcap-triage-pipeline` | docs(pcap): clarify triage workflow, limitations and safe evidence hand… | `518c6b8` |
 | 2026-09-17 21:02 | `aris` | Merge pull request #12 from joemurillo-ai/chore/reconcile-persisted-exe… | `64cef72` |
 | 2026-09-17 21:00 | `aris` | chore: reconcile persisted execution roadmap | `181cff9` |
 | 2026-09-17 20:41 | `aris` | Merge pull request #11 from joemurillo-ai/agent/persisted-execution | `b6a884f` |
@@ -150,10 +154,6 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 | 2026-09-17 20:04 | `aris` | chore: reconcile agent authorization roadmap | `6398090` |
 | 2026-09-17 03:25 | `aris` | feat: enforce mission agent authorization (#9) | `c8144e9` |
 | 2026-09-17 02:59 | `aris` | chore: reconcile governance events roadmap status (#8) | `5b38a76` |
-| 2026-09-16 22:01 | `aris` | feat: add durable governance event history (#7) | `9a66715` |
-| 2026-09-16 17:58 | `aris` | chore: reconcile privacy redaction roadmap status (#6) | `fa8f419` |
-| 2026-09-16 17:04 | `aris` | feat: add bounded diagnostic redaction (#5) | `62bcf0e` |
-| 2026-09-15 23:03 | `aris` | chore: reconcile lifecycle roadmap status | `fa18b8f` |
 <!-- V5:MISSION_LOG:END -->
 
 ---
