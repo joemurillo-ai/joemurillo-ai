@@ -131,7 +131,7 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 | SECURITY BRIEFING | `main` | `6b4818b` | 1d ago | 1 | 1 | 0 | 0 | — | ACTIVE |
 | HUMAN.EXE | `main` | `b753092` | 1d ago | 1 | 1 | 1 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-10-17 10:42 UTC`  
+`telemetry_sync: 2026-10-17 15:32 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
