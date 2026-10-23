@@ -125,13 +125,13 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V5:TELEMETRY:START -->
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| ARIS | `main` | `64cef72` | 35d ago | 0 | 0 | 0 | 0 | SUCCESS | WARM |
+| ARIS | `main` | `64cef72` | 36d ago | 0 | 0 | 0 | 0 | SUCCESS | WARM |
 | XORIS | `master` | `a617b39` | 7d ago | 0 | 1 | 0 | 0 | — | ACTIVE |
 | PCAP TRIAGE | `main` | `518c6b8` | 7d ago | 0 | 1 | 0 | 0 | — | ACTIVE |
 | SECURITY BRIEFING | `main` | `6b4818b` | 7d ago | 0 | 1 | 0 | 0 | — | ACTIVE |
 | HUMAN.EXE | `main` | `b753092` | 7d ago | 0 | 1 | 1 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-10-23 17:05 UTC`  
+`telemetry_sync: 2026-10-23 21:23 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
