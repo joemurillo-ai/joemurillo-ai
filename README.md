@@ -99,8 +99,8 @@ Operational signal only — **not a security rating**. It combines public commit
 |---|---|---|---|---|
 | ARIS | WARM | SUCCESS | CLEAR | AMBER |
 | XORIS | ACTIVE | — | CLEAR | GREEN |
-| PCAP TRIAGE | ACTIVE | — | CLEAR | GREEN |
-| SECURITY BRIEFING | ACTIVE | — | CLEAR | GREEN |
+| PCAP TRIAGE | WARM | — | CLEAR | AMBER |
+| SECURITY BRIEFING | WARM | — | CLEAR | AMBER |
 | HUMAN.EXE | ATTENTION | FAILURE | LIGHT | ATTENTION |
 <!-- V5:TRUST:END -->
 
@@ -125,13 +125,13 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V5:TELEMETRY:START -->
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| ARIS | `main` | `64cef72` | 42d ago | 0 | 0 | 0 | 0 | SUCCESS | WARM |
+| ARIS | `main` | `64cef72` | 43d ago | 0 | 0 | 0 | 0 | SUCCESS | WARM |
 | XORIS | `master` | `a617b39` | 14d ago | 0 | 1 | 0 | 0 | — | ACTIVE |
-| PCAP TRIAGE | `main` | `518c6b8` | 14d ago | 0 | 1 | 0 | 0 | — | ACTIVE |
-| SECURITY BRIEFING | `main` | `6b4818b` | 14d ago | 0 | 1 | 0 | 0 | — | ACTIVE |
+| PCAP TRIAGE | `main` | `518c6b8` | 15d ago | 0 | 1 | 0 | 0 | — | WARM |
+| SECURITY BRIEFING | `main` | `6b4818b` | 15d ago | 0 | 1 | 0 | 0 | — | WARM |
 | HUMAN.EXE | `main` | `b753092` | 14d ago | 0 | 1 | 1 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-10-30 12:52 UTC`  
+`telemetry_sync: 2026-10-30 22:17 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
