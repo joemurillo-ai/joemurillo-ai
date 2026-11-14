@@ -78,13 +78,13 @@ JOE
 PORTFOLIO PULSE
 ----------------------------------------------------------------
 commits_7d           0
-commits_30d          4
-active_repos_30d     4/5
+commits_30d          0
+active_repos_30d     0/5
 ci_success           1
 attention_signals    1
 open_prs             1
 open_issues          0
-focus_repo           XORIS
+focus_repo           ARIS
 ```
 <!-- V5:PULSE:END -->
 
@@ -125,13 +125,13 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V5:TELEMETRY:START -->
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| ARIS | `main` | `64cef72` | 57d ago | 0 | 0 | 0 | 0 | SUCCESS | WARM |
-| XORIS | `master` | `a617b39` | 29d ago | 0 | 1 | 0 | 0 | — | WARM |
-| PCAP TRIAGE | `main` | `518c6b8` | 29d ago | 0 | 1 | 0 | 0 | — | WARM |
-| SECURITY BRIEFING | `main` | `6b4818b` | 29d ago | 0 | 1 | 0 | 0 | — | WARM |
-| HUMAN.EXE | `main` | `b753092` | 29d ago | 0 | 1 | 1 | 0 | FAILURE | ATTENTION |
+| ARIS | `main` | `64cef72` | 58d ago | 0 | 0 | 0 | 0 | SUCCESS | WARM |
+| XORIS | `master` | `a617b39` | 30d ago | 0 | 0 | 0 | 0 | — | WARM |
+| PCAP TRIAGE | `main` | `518c6b8` | 30d ago | 0 | 0 | 0 | 0 | — | WARM |
+| SECURITY BRIEFING | `main` | `6b4818b` | 30d ago | 0 | 0 | 0 | 0 | — | WARM |
+| HUMAN.EXE | `main` | `b753092` | 30d ago | 0 | 0 | 1 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-11-14 17:58 UTC`  
+`telemetry_sync: 2026-11-14 22:22 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
