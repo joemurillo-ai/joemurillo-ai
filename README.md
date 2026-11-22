@@ -125,13 +125,13 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 <!-- V5:TELEMETRY:START -->
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
-| ARIS | `main` | `64cef72` | 64d ago | 0 | 0 | 0 | 0 | SUCCESS | WARM |
-| XORIS | `master` | `a617b39` | 36d ago | 0 | 0 | 0 | 0 | — | WARM |
-| PCAP TRIAGE | `main` | `518c6b8` | 36d ago | 0 | 0 | 0 | 0 | — | WARM |
-| SECURITY BRIEFING | `main` | `6b4818b` | 36d ago | 0 | 0 | 0 | 0 | — | WARM |
-| HUMAN.EXE | `main` | `b753092` | 36d ago | 0 | 0 | 1 | 0 | FAILURE | ATTENTION |
+| ARIS | `main` | `64cef72` | 65d ago | 0 | 0 | 0 | 0 | SUCCESS | WARM |
+| XORIS | `master` | `a617b39` | 37d ago | 0 | 0 | 0 | 0 | — | WARM |
+| PCAP TRIAGE | `main` | `518c6b8` | 37d ago | 0 | 0 | 0 | 0 | — | WARM |
+| SECURITY BRIEFING | `main` | `6b4818b` | 37d ago | 0 | 0 | 0 | 0 | — | WARM |
+| HUMAN.EXE | `main` | `b753092` | 37d ago | 0 | 0 | 1 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-11-21 19:13 UTC`  
+`telemetry_sync: 2026-11-22 06:44 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
