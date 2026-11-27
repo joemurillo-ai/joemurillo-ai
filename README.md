@@ -126,12 +126,12 @@ Regenerated automatically from **public GitHub metadata** every six hours.
 | System | Branch | Head | Last commit | 7d | 30d | PRs | Issues | Latest Action | Signal |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
 | ARIS | `main` | `64cef72` | 70d ago | 0 | 0 | 0 | 0 | SUCCESS | WARM |
-| XORIS | `master` | `a617b39` | 41d ago | 0 | 0 | 0 | 0 | — | WARM |
-| PCAP TRIAGE | `main` | `518c6b8` | 41d ago | 0 | 0 | 0 | 0 | — | WARM |
-| SECURITY BRIEFING | `main` | `6b4818b` | 41d ago | 0 | 0 | 0 | 0 | — | WARM |
-| HUMAN.EXE | `main` | `b753092` | 41d ago | 0 | 0 | 1 | 0 | FAILURE | ATTENTION |
+| XORIS | `master` | `a617b39` | 42d ago | 0 | 0 | 0 | 0 | — | WARM |
+| PCAP TRIAGE | `main` | `518c6b8` | 42d ago | 0 | 0 | 0 | 0 | — | WARM |
+| SECURITY BRIEFING | `main` | `6b4818b` | 42d ago | 0 | 0 | 0 | 0 | — | WARM |
+| HUMAN.EXE | `main` | `b753092` | 42d ago | 0 | 0 | 1 | 0 | FAILURE | ATTENTION |
 
-`telemetry_sync: 2026-11-26 21:29 UTC`  
+`telemetry_sync: 2026-11-27 08:27 UTC`  
 `boundary: public GitHub metadata only`
 <!-- V5:TELEMETRY:END -->
 
